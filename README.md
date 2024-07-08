@@ -15,6 +15,7 @@
 - 进入 [Releases](https://github.com/lxgw/LxgwFasmartGothic/releases) 页面下载 TTF 格式字体文件。Release 版本号与 GB 字形的「霞鹜尚智黑」（新晰黑）相同。
 - 也可进入 [猫啃网](https://www.maoken.com/freefonts/10610.html) 或 [字加](https://www.zijia.com.cn/6531.html) 获取。
 - 可在 [蓝奏云（密码:2q5d）](https://lxgw.lanzouv.com/b02seu58yd) 或 [永硕网盘](http://lxgw.ysepan.com/) 下载。
+
 > ㊟ 不保证与（新）晰黑项目同步更新。
 ## 授权信息
 - 本字体在 IPA 所开发并发布的 [IPAex黑体](https://moji.or.jp/ipafont)、[「03スマートフォントUI」](https://www.flopdesign.com/freefont/smartfont.html) 基础上衍生，依照 [IPA开放字型授权条款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授权。
