@@ -11,7 +11,8 @@
 - 尚智黑所收的符号相比于新晰黑会有所欠缺。
 ![](documentation/fasmart-2.png)
 ## 获取字体
-进入 [Releases](https://github.com/lxgw/LxgwFasmartGothic/releases) 页面下载 TTF 格式字体文件。Release 版本号与 GB 字形的「霞鹜尚智黑」（新晰黑）相同。
+- 进入 [Releases](https://github.com/lxgw/LxgwFasmartGothic/releases) 页面下载 TTF 格式字体文件。Release 版本号与 GB 字形的「霞鹜尚智黑」（新晰黑）相同。
+- 也可进入 [猫啃网](https://www.maoken.com/freefonts/10610.html) 或 [字加](https://www.zijia.com.cn/6531.html) 获取。
 
 > ㊟ 不保证与（新）晰黑项目同步更新。
 ## 授权信息
