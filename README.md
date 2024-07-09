@@ -2,6 +2,9 @@
 基于[「03スマートフォントUI」](https://www.flopdesign.com/freefont/smartfont.html)以及[「霞鹜新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)[「霞鹜晰黑 CL/MN」](https://github.com/lxgw/LxgwXiHei)衍生的中文黑体字型。
 
 将字面横向压缩 94%，全新英数与假名，更具稳重时尚感。
+
+> [!NOTE]
+> 由于《霞鹜新晰黑》将要补全 GBK（同时补全 CJK 统一表意文字基本区），本字体单独设立 repo，不再随附于《霞鹜新晰黑》。
 ## 概览
 ![](documentation/fasmart-1.png)
 ## 不同字形版本及收字情况
