@@ -36,6 +36,7 @@
 - [霞鹜新致宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
 - [霞鹜晰黑 / LXGW XiHei](https://github.com/lxgw/LxgwXiHei)
 - [霞鹜致宋 / LXGW ZhiSong](https://github.com/lxgw/LxgwZhiSong)
+- 霞鹜尚智黑 / LXGW Fasmart Gothic
 - [霞鹜铭心宋 / LXGW Heart Serif](https://github.com/lxgw/LxgwHeartSerif)
 ### 「霞鹜文楷」系列
 - [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [Lite](https://github.com/lxgw/LxgwWenKai-Lite)
