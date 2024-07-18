@@ -37,7 +37,7 @@
 > 
 > > アプリ・ゲームに内蔵する場合、プログラムにエンベッド（埋め込み）をする場合、ウェブフォントとしてサーバー上にアップロードする場合にはご利用頂けません。その際はメールにてご連絡頂くか「日本語ウェブフォントキット」を http://www.flopdesign.com/shop/webfont.html にてご購入下さい。フォント自体の完成度も高い仕上がりになっています。※安心して使えるIPAより分離したライセンスです。
 > 
-> 不得用于 APP 或游戏内置、程序嵌入或者作为 webfont 上传到服务器。在这种情况下请与 FLOP DESIGN 电邮联系，或者通过 http://www.flopdesign.com/shop/webfont.html 购买「日文 Webfont 工具包」，字体本身的完成度也很高。＊采用与 IPA 分离的授权许可，可以放心使用。[^2]
+> 不得用于 APP 或游戏内置、程序嵌入或者作为 webfont 上传到服务器。在这种情况下请与 FLOP DESIGN 电邮联系，或者通过 http://www.flopdesign.com/shop/webfont.html 购买「日文 Webfont 套件」，字体本身的完成度也很高。＊采用与 IPA 分离的授权许可，可以放心使用。[^2]
 - 有关 IPA Font License 1.0 的其他常见问题，请参阅 [FAQ（日语）](https://moji.or.jp/ipafont/faq/)，需自备翻译工具。
 - 但凡有任何人使用、复制、修改、分发本字体，或对本字体进行任何符合 IPA Font License 1.0 规定的行为，使用、下载或行使合约规定权利之接受方，亦视为同意遵守 IPA Font License 1.0 的一切规定。  
   「IPA 字体（IPA Font，IPAフォント）」为日本「独立行政法人　情报处理推进机构」（The Information-Technology Promotion Agency, “IPA”）的注册商标。
