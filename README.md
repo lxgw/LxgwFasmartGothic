@@ -30,14 +30,14 @@
 - 如果您要将本字体替换回 IPA 原始授权字体，请从 [IPA 字体下载页面](https://moji.or.jp/ipafont/ipafontdownload)获取原始授权字体「IPAexゴシック」。  
   对于涉及字体文件再分发的嵌入式应用（如应用程序、硬件设备、网页等嵌入），[请点击此处](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/embedding_instructions.md)（跳转到「霞鹜新晰黑」repo）。
 > [!Note]
-> **原字体「03スマートフォントUI」制作方 FLOP DESIGN 声明如下**（原文 + 译文）：
+> **原字体「03スマートフォントUI」制作方 FLOP DESIGN 声明如下**（原文 + 译文）：[^1]
 > > 作成した印刷物およびデジタルコンテンツ・ソフトウェアにつき、その商用・非商用・フリーウェアに関わらず放送、通信、各種記録メディアなどの媒体の形式も問わず、自由に使用をする事が可能です。ただし、これはIPAフォントのライセンスの元にあり、IPAのページのIPAフォントライセンスをご覧下さい。特にフォントを改変し再配布する場合、プログラムにエンベッド（埋め込み）をする場合、オンラインサーバー上に置く場合、ウェブフォントとしてサーバー上にアップロードする場合に制限事項があるので必ず良くお読み下さい。また「ひらがな」「カタカナ」のデザインの著作権はフロップデザインに帰属し、有償での公開・販売・再配布・抽出が可能なプログラムへの埋め込みを禁止しています。
 > 
 > 您可以自由在您创建的印刷材料和数字内容软件中使用该字体，无论其为商业、非商业或免费软件；也可以在任何形式的媒体中使用，包括广播、通信和各种记录媒体。不过，使用过程中须遵守 IPA 字体许可，请参阅 IPA 页面上的 IPA 字体许可，尤其是在修改和再分发字体、将字体嵌入到程序中、将字体放置于在线服务器上以及将字体作为 webfont 上传到服务器等方面都有一定限制，因此请仔细阅读。此外，平假名和片假名设计的版权归 FLOP DESIGN 所有，禁止将其嵌入到有偿公开、出售、再分发或提取的程序中。
 > 
 > > アプリ・ゲームに内蔵する場合、プログラムにエンベッド（埋め込み）をする場合、ウェブフォントとしてサーバー上にアップロードする場合にはご利用頂けません。その際はメールにてご連絡頂くか「日本語ウェブフォントキット」を http://www.flopdesign.com/shop/webfont.html にてご購入下さい。フォント自体の完成度も高い仕上がりになっています。※安心して使えるIPAより分離したライセンスです。
 > 
-> 不得用于 APP 或游戏内置、程序嵌入或者作为 webfont 上传到服务器。在这种情况下请与 FLOP DESIGN 电邮联系，或者通过 http://www.flopdesign.com/shop/webfont.html 购买「日文 Webfont 工具包」，字体本身的完成度也很高。＊采用与 IPA 分离的授权许可，可以放心使用。[^1]
+> 不得用于 APP 或游戏内置、程序嵌入或者作为 webfont 上传到服务器。在这种情况下请与 FLOP DESIGN 电邮联系，或者通过 http://www.flopdesign.com/shop/webfont.html 购买「日文 Webfont 工具包」，字体本身的完成度也很高。＊采用与 IPA 分离的授权许可，可以放心使用。[^2]
 - 有关 IPA Font License 1.0 的其他常见问题，请参阅 [FAQ（日语）](https://moji.or.jp/ipafont/faq/)，需自备翻译工具。
 - 但凡有任何人使用、复制、修改、分发本字体，或对本字体进行任何符合 IPA Font License 1.0 规定的行为，使用、下载或行使合约规定权利之接受方，亦视为同意遵守 IPA Font License 1.0 的一切规定。  
   「IPA 字体（IPA Font，IPAフォント）」为日本「独立行政法人　情报处理推进机构」（The Information-Technology Promotion Agency, “IPA”）的注册商标。
@@ -61,4 +61,5 @@
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
 - [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
 
-[^1]: 「日本語ウェブフォントキット」购买链接现已移至：[flopdesign.shop](https://flopdesign.shop/items/5c209279687024785ef1b976)
+[^1]: [原网站](https://www.flopdesign.com/freefont/smartfont.html)现已无法打开（403 Forbidden），声明内容摘自[该字体 BOOTH 页面](https://flopdesign.booth.pm/items/2296502)下载的 SmartFontUI.zip 中的 Readme.html 文件。
+[^2]: 「日本語ウェブフォントキット」购买链接现已移至：[flopdesign.shop](https://flopdesign.shop/items/5c209279687024785ef1b976)
