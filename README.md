@@ -1,3 +1,5 @@
+> 本项目不再更新维护。
+
 # 霞鹜尚智黑 / LXGW Fasmart Gothic
 基于[「03スマートフォントUI」](https://www.flopdesign.com/freefont/smartfont.html)以及[「霞鹜新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)[「霞鹜晰黑 CL/MN」](https://github.com/lxgw/LxgwXiHei)衍生的中文黑体字型。
 
